@@ -1,1 +1,1 @@
-# list_in_python
+complete list operations in python for bignners.
